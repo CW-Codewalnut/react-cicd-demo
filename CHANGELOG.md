@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CW-Codewalnut/react-cicd-demo/compare/v1.1.0...v1.1.1) (2025-07-31)
+
+
+### Bug Fixes
+
+* change loading state initialization and update deployment date ([0e66176](https://github.com/CW-Codewalnut/react-cicd-demo/commit/0e66176b6e30b72b8bf10f8d7e2ee8acab1c521b))
+
 # [1.1.0](https://github.com/CW-Codewalnut/react-cicd-demo/compare/v1.0.1...v1.1.0) (2025-07-31)
 
 
