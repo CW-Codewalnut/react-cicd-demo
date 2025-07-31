@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/CW-Codewalnut/react-cicd-demo/compare/v1.0.1...v1.1.0) (2025-07-31)
+
+
+### Features
+
+* update gitHub actions workflow to include deployment to vercel ([8c8aab8](https://github.com/CW-Codewalnut/react-cicd-demo/commit/8c8aab8596f9ac2c8139e4ba8cf5b3971bcd4f12))
+
 ## [1.0.1](https://github.com/CW-Codewalnut/react-cicd-demo/compare/v1.0.0...v1.0.1) (2025-07-21)
 
 
